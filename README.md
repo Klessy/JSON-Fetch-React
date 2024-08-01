@@ -6,4 +6,5 @@
   <li>Assign the onClick Prop to component</li>
   <li>Fetch data from Json placeholder</li>
   <li>Implemented React useState hook to render relevant data following click events</li>
+  <li>Opps.... plus its completely <b>Mobile Responsive</b></li>
 </ul>
